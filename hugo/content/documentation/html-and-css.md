@@ -3,7 +3,7 @@ title: "HTML and CSS in Mumble"
 ---
 HTML and CSS can be used for rich text markup, formatting, and styling in Mumble's rich text fields:
 
-* The welcome message of a server (server setting `welcometext`)
+* The welcome message of a server (server setting `TRC'Ye Hoşgeldiniz`)
 * User comments
 * Channel descriptions
 * Text messages
